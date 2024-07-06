@@ -87,7 +87,8 @@ Just clone the repo, install dependencies with `./run setup`, and you should be 
 To report a bug or request a feature, create a [GitHub Issue](https://github.com/Significant-Gravitas/AutoGPT/issues/new/choose). Please ensure someone else hasn’t created an issue for the same topic.
 
 ## 🤝 Sister projects
-
+## Team Work 
+Ishita, Kanika Singh, Roshni verma
 ### 🔄 Agent Protocol
 
 To maintain a uniform standard and ensure seamless compatibility with many current and future applications, AutoGPT employs the [agent protocol](https://agentprotocol.ai/) standard by the AI Engineer Foundation. This standardizes the communication pathways from your agent to the frontend and benchmark.
@@ -103,3 +104,5 @@ To maintain a uniform standard and ensure seamless compatibility with many curre
   </picture>
 </a>
 </p>
+
+
